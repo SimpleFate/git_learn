@@ -51,8 +51,8 @@
   
   ```
   
-- git stash 保存现场
-  git stash list
-  git stash pop
-  git stash apply []
+- git stash 保存现场  
+  git stash list  
+  git stash pop  
+  git stash apply []  
   
