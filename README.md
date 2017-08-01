@@ -41,3 +41,12 @@
   add、commit都是对**修改**进行添加，提交。
 
 - git checkout  
+```
+  #在add之前，丢弃工作区的更改
+  git checkout --file
+
+  #在commit之前，丢弃工作区的更改
+  git reset HEAD file
+  git checkout --file
+  
+  ```
