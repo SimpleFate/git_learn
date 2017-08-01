@@ -19,3 +19,11 @@
 
            #查看已提交的版本和本地修改后的版本的区别 
            git diff HEAD 上面两条的合并
+
+
+       git log
+           #查看commit历史记录
+           git log
+           git log --pretty=oneline
+           git log --graph
+there is something changed to be reset.
