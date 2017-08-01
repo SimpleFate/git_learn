@@ -28,4 +28,16 @@
            git log --graph
         
        git reflog
-           #查看命令记录
+           #查看命令历史
+
+- 版本回退 将工作区改为某个版本  
+    ```git reset --hard HEAD```  
+    1.HEAD HEAD^/HEAD~1 HEAD^^/HEAD~2  
+    2.commit id  
+
+    ![](F:/code/git_repo/git_learn/gitreset.jpg)
+- 管理修改  
+  git 管理的是修改。
+  add、commit都是对**修改**进行添加，提交。
+
+- git checkout  
