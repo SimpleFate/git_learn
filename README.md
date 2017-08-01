@@ -50,4 +50,4 @@
   git checkout --file
   
   ```
-this is on branch dev
+this is on branch dev.
