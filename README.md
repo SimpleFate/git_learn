@@ -26,4 +26,6 @@
            git log
            git log --pretty=oneline
            git log --graph
-there is something changed to be reset.
+        
+       git reflog
+           #查看命令记录
