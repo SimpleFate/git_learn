@@ -50,8 +50,4 @@
   git checkout --file
   
   ```
-<<<<<<< HEAD
-
-=======
 this is on branch dev.
->>>>>>> dev
